@@ -1,0 +1,9 @@
+
+This is version 0.9 of bmplib, a tiny and simple library that permits
+creation of images, drawing into them (lines, rectangles, text), and storing 
+them as BMP image files. My two ASCII fonts and narrow-numbers font
+are built-in.
+
+-Zack Smith
+veritas@comcast.net
+
